@@ -1,8 +1,8 @@
-# htaccess-idhostinger
-htaccess untuk idhostinger.com
+# htaccess
+htaccess untuk Codeigniter
 
 # fungsi
 menghilangkan index.php di link
 
 # cara menggunakan
-tinggal upload ke /root hosting idhostinger.com
+tinggal upload ke /root hosting
